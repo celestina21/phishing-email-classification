@@ -7,3 +7,5 @@ Dataset: Kaggle Phishing Email Detection dataset ([Source](https://www.kaggle.co
 Files:
 - Project.ipynb: Jupyter notebook wherein data exploration and cleaning, model training and hyper-parameter tuning with various models and model evaluation is conducted.  
 - Report.docx: A project report consolidating work done in Project.ipynb and conducting a MITRE Atlas analysis (based on the Evade AI Model technique) on a deployment scenario using the best performing model (fine-tuned DeBERTa V3 XSmall). 
+
+Note: Notebook display may show "Invalid Notebook", but downloading the notebook will not show issues.
